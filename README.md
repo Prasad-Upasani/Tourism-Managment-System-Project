@@ -1,6 +1,7 @@
 Tourism Management System: -
 Objective: Developed a comprehensive system to manage bookings, reservations, and customer interactions for a fictional
 tourism agency.
+
 Technologies Used: HTML, CSS, JavaScript, PHP, MySQL.
 Description:
 1) Implemented features including itinerary planning, hotel booking and tourist activity recommendations.
